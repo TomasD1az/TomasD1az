@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Tomas Diaz</h1>
-<h3 align="center">A former 2nd year Artificial Intelligence Engineering</h3>
+<h1 align="center">👾 Hello, I'm Tomas Diaz</h1>
+<img align="right" alt="coding" display=grid width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
+I'm 19 years old, I live in Buenos Aires/AR, I'm a former Artificial Intelligence Engineering student at Universidad de San Andres and I'm passionate about programming and felines! I'm a beginner in the programming universe, official bug hunter.
 - 📫 How to reach me **tdiaz@udesa.edu.ar**
 
 <h3 align="left">Connect with me:</h3>
